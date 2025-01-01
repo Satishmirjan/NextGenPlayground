@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from './components/Hero';
 
-import NavBar from './components/Navbar';
+import NavBar from './components/NavBar';
 import Features from './components/Features';
 import FloatingImage from './components/story';
 import Footer from './components/Footer';
